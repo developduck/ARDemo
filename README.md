@@ -11,4 +11,4 @@
 [![ARDemo](./ARDemo.gif)](https://www.youtube.com/watch?v=-pjju7dIFL8&edit)
 
 ## 기타 その他
-Code Shortcut : https://github.com/rlaejdwls/portfolio/tree/master/ARDemo/app/src/main/java/com/example/ar/demo
+Code Shortcut : https://github.com/developduck/ARDemo/tree/master/app/src/main/java/com/example/ar/demo
